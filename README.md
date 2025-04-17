@@ -1,4 +1,4 @@
-# 🧠 Automatización de Consulta y Procesamiento de Datos - GTR Refrigerios
+# 🧠 Automatización de Alertas - GTR
 
 Este script fue creado para automatizar parte del proceso de monitoreo y gestión de tiempos de refrigerio del equipo de atención en la campaña **ATT**. Realiza la conexión a la base de datos, construye dataframes con información del personal, y lanza una interfaz con una cuenta regresiva visual para indicar cuándo iniciar una nueva consulta.
 
