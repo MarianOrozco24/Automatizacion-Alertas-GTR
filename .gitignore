@@ -13,4 +13,5 @@ Thumbs.db
 # Archivos .json con credenciales codificadas
 .json
 
+# Carpeta con credenciales
 env/
